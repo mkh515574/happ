@@ -20,10 +20,7 @@ class MyApp extends StatelessWidget {
         HomeView.id : (context)=> const HomeView(),
       },
       title: 'HApp',
-      theme: ThemeData(
 
-
-      ),
 
       debugShowCheckedModeBanner: false,
       initialRoute: HomeView.id,
