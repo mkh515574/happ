@@ -26,9 +26,11 @@ class MyApp extends StatelessWidget {
       ),
 
       debugShowCheckedModeBanner: false,
-      initialRoute: LoginView.id,
+      initialRoute: HomeView.id,
      // home: const LoginView(),
     );
   }
 }
 
+
+/// samy
